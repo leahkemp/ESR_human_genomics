@@ -17,8 +17,8 @@
 
 ## Jejunum RNA
 
-- [Jejunum RNA](https://github.com/leahkemp/jejunum_rna)
-- [Jejunum RNA - analysis 2](https://github.com/leahkemp/jejunum_rna_2)
+- [jejunum_rna](https://github.com/leahkemp/jejunum_rna)
+- [jejunum_rna_2](https://github.com/leahkemp/jejunum_rna_2)
 
 ## Hepatic portal small non-coding RNA type 2 diabetes
 
