@@ -1,5 +1,7 @@
 # Bioinformatic tools and software
 
+A collection of tools and software we either developed internally or that were developed externally that use
+
 ## Table of contents
 
 - [Bioinformatic tools and software](#bioinformatic-tools-and-software)
@@ -34,3 +36,5 @@
 - [smrnaseq](https://github.com/nf-core/smrnaseq/)
 
 ## For [Nanopore](https://nanoporetech.com/) data
+
+- [Pore-C-Snakemake](https://github.com/nanoporetech/Pore-C-Snakemake)
