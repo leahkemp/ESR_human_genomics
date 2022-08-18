@@ -1,6 +1,9 @@
 # Bioinformatic tools and software
 
+## Table of contents
+
 - [Bioinformatic tools and software](#bioinformatic-tools-and-software)
+  - [Table of contents](#table-of-contents)
   - [Developed internally](#developed-internally)
   - [Developed externally](#developed-externally)
   - [For Illumina data](#for-illumina-data)

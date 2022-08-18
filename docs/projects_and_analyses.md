@@ -1,6 +1,9 @@
 # Projects and analyses
 
+## Table of contents
+
 - [Projects and analyses](#projects-and-analyses)
+  - [Table of contents](#table-of-contents)
   - [GA clinical genomics](#ga-clinical-genomics)
   - [Jejunum RNA](#jejunum-rna)
   - [Hepatic portal small non-coding RNA type 2 diabetes](#hepatic-portal-small-non-coding-rna-type-2-diabetes)
