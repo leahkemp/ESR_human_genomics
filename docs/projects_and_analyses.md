@@ -17,7 +17,7 @@
 
 ## GA clinical genomics
 
-- [WDHB_production_scout](https://github.com/leahkemp/WDHB_production_scout)
+- [GA_clinical_genomics](https://github.com/leahkemp/GA_clinical_genomics)
 - [scout_admin_notes](https://github.com/leahkemp/scout_admin_notes)
 
 ## Jejunum RNA
