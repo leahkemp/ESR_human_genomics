@@ -4,9 +4,10 @@
   - [People](#people)
   - [Projects and analyses](#projects-and-analyses)
   - [External Engagement](#external-engagement)
+  - [Hardware](#hardware)
   - [Tools and software](#tools-and-software)
 
-**Note. Miles has created a similar page here: http://leviathan/human_genomics/ (available on the ESR network), I'm yet to figure out and get around to merging both pages to keep all the documentation together and maintained**
+**Note. Miles has created a similar page here: http://leviathan/human_genomics/ (available on the ESR network), I'm yet to figure out and get around to merging both pages to keep all the documentation together and maintained.**
 
 ## People
 
@@ -19,6 +20,10 @@
 ## External Engagement
 
 [External Engagement](./docs/external_engagement.md)
+
+## Hardware
+
+[Hardware](./docs/hardware.md)
 
 ## Tools and software
 
