@@ -9,6 +9,7 @@
   - [Epilepsy exomes](#epilepsy-exomes)
   - [Hyperparathyroidism exomes](#hyperparathyroidism-exomes)
   - [Colorectal cancer small non-coding RNA](#colorectal-cancer-small-non-coding-rna)
+  - [Guinea pore-c](#guinea-pore-c)
 
 ## GA clinical genomics
 
@@ -45,3 +46,7 @@
 ## Colorectal cancer small non-coding RNA
 
 - [kirsty_rna_analysis](https://github.com/leahkemp/kirsty_rna_analysis)
+
+## Guinea pore-c
+
+- [guinea_pore_c](https://github.com/leahkemp/guinea_pore_c)
