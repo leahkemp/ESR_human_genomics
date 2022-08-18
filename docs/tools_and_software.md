@@ -1,6 +1,6 @@
 # Bioinformatic tools and software
 
-A collection of tools and software we either developed internally or that were developed externally that use
+A collection of tools and software we either developed internally or that were developed externally that we use in our analyses
 
 ## Table of contents
 
