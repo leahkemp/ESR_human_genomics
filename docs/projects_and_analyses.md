@@ -19,6 +19,7 @@
 
 - [GA_clinical_genomics](https://github.com/leahkemp/GA_clinical_genomics)
 - [scout_admin_notes](https://github.com/leahkemp/scout_admin_notes)
+- [test_SV_callers](https://github.com/leahkemp/test_SV_callers)
 
 ## Jejunum RNA
 
