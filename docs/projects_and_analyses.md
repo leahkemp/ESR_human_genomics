@@ -4,6 +4,8 @@
 
 - [Projects and analyses](#projects-and-analyses)
   - [Table of contents](#table-of-contents)
+  - [Guinea pore-c](#guinea-pore-c)
+  - [Concussion small non-coding RNA](#concussion-small-non-coding-rna)
   - [GA clinical genomics](#ga-clinical-genomics)
   - [Jejunum RNA](#jejunum-rna)
   - [Hepatic portal small non-coding RNA type 2 diabetes](#hepatic-portal-small-non-coding-rna-type-2-diabetes)
@@ -12,8 +14,14 @@
   - [Epilepsy exomes](#epilepsy-exomes)
   - [Hyperparathyroidism exomes](#hyperparathyroidism-exomes)
   - [Colorectal cancer small non-coding RNA](#colorectal-cancer-small-non-coding-rna)
-  - [Concussion small non-coding RNA](#concussion-small-non-coding-rna)
-  - [Guinea pore-c](#guinea-pore-c)
+
+## Guinea pore-c
+
+- [guinea_pore_c](https://github.com/leahkemp/guinea_pore_c)
+
+## Concussion small non-coding RNA
+
+- [concussion_sncrna](https://github.com/leahkemp/concussion_sncrna)
 
 ## GA clinical genomics
 
@@ -51,11 +59,3 @@
 ## Colorectal cancer small non-coding RNA
 
 - [kirsty_rna_analysis](https://github.com/leahkemp/kirsty_rna_analysis)
-
-## Concussion small non-coding RNA
-
-- [concussion_sncrna](https://github.com/leahkemp/concussion_sncrna)
-
-## Guinea pore-c
-
-- [guinea_pore_c](https://github.com/leahkemp/guinea_pore_c)
