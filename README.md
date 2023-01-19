@@ -4,7 +4,10 @@
   - [Projects and analyses](#projects-and-analyses)
   - [Tools and software](#tools-and-software)
 
-**Note. Miles has created a similar page here: http://leviathan/human_genomics/ (available on the ESR research network), I'm yet to figure out and get around to merging both pages to keep all the documentation together and maintained.**
+## What is this repo
+
+This is a place to point to all the projects and analyses undertaken by the human genomics group at ESR. Each project will have one or more analyses, each analysis has a dedicated github repository (some public, some private). Each github repo outlines where to find the data, where the analysis was carried out, how to reproduce the analysis, information on accessing the github repository, where the github repository is located.
+
 ## Projects and analyses
 
 [Projects and analyses](./docs/projects_and_analyses.md)
