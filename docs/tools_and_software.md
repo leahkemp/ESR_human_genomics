@@ -27,12 +27,7 @@ A collection of bioinformatic tools and software we either developed internally 
   
 ### For [Illumina](https://www.illumina.com/) data
 
-#### RNAseq
-
 - [rnaseq](https://github.com/nf-core/RNAseq)
-
-#### small RNAseq
-
 - [smrnaseq](https://github.com/nf-core/smrnaseq/)
 
 ### For [Nanopore](https://nanoporetech.com/) data
