@@ -10,7 +10,7 @@ This is a place to point to all the projects and analyses undertaken by the huma
 
 ## General info
 
-Minimal, cleaned up analysese can be found at either `/NGS/clinicalgenomics/archive/year/results/` and `/NGS/humangenomics/archive/year/results/` on ESR's production network. These include part of each analysis github repository (such as the `README.md` file) as well as minimal analysis results/outputs.
+Minimal, cleaned up analyses can be found at either `/NGS/clinicalgenomics/archive/year/results/` and `/NGS/humangenomics/archive/year/results/` on ESR's production network. These include part of each analysis github repository (such as the `README.md` file) as well as minimal analysis results/outputs.
 
 Most raw data will be found at `/NGS/clinicalgenomics/archive/year/run/raw/` and `/NGS/humangenomics/archive/year/run/raw/` on ESR's production network (with some data on `/mnt/cavia_porcellus/` on Leviathan on the research network). Here, more information about each project, metadata, sequencing information, information on getting the data to that location can be found.
 
