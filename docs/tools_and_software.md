@@ -29,6 +29,7 @@ A collection of bioinformatic tools and software we either developed internally 
 
 - [rnaseq](https://github.com/nf-core/RNAseq)
 - [smrnaseq](https://github.com/nf-core/smrnaseq/)
+- [exceRpt](https://github.com/rkitchen/exceRpt)
 
 ### For [Nanopore](https://nanoporetech.com/) data
 
