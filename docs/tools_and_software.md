@@ -1,4 +1,4 @@
-# Bioinformatic tools and software
+# Bioinformatics tools and software
 
 A collection of bioinformatic tools and software we either developed internally or that were developed externally that we use in our analyses
 
