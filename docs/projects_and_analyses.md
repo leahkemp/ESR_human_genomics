@@ -4,16 +4,21 @@
 
 - [Projects and analyses](#projects-and-analyses)
   - [Table of contents](#table-of-contents)
+  - [Adipose ONT meythylation](#adipose-ont-meythylation)
   - [Guinea pore-c](#guinea-pore-c)
   - [Concussion small non-coding RNA](#concussion-small-non-coding-rna)
   - [GA clinical genomics](#ga-clinical-genomics)
   - [Jejunum RNA](#jejunum-rna)
   - [Hepatic portal small non-coding RNA type 2 diabetes](#hepatic-portal-small-non-coding-rna-type-2-diabetes)
-  - [Jejunum small non-coding RNA type 2 diabetes](#jejunum-small-non-coding-rna-type-2-diabetes)
+  - [Jejunum small non-coding RNA](#jejunum-small-non-coding-rna)
   - [Cell line exposure small non-coding RNA](#cell-line-exposure-small-non-coding-rna)
   - [Epilepsy exomes](#epilepsy-exomes)
   - [Hyperparathyroidism exomes](#hyperparathyroidism-exomes)
   - [Colorectal cancer small non-coding RNA](#colorectal-cancer-small-non-coding-rna)
+
+## Adipose ONT meythylation
+
+- [adipose_ont_methylation](https://github.com/leahkemp/adipose_ont_methylation)
 
 ## Guinea pore-c
 
@@ -26,7 +31,6 @@
 ## GA clinical genomics
 
 - [GA_clinical_genomics](https://github.com/leahkemp/GA_clinical_genomics)
-- [scout_admin_notes](https://github.com/leahkemp/scout_admin_notes)
 - [test_SV_callers](https://github.com/leahkemp/test_SV_callers)
 
 ## Jejunum RNA
@@ -38,7 +42,7 @@
 
 - [hps_sncrna](https://github.com/leahkemp/hps_sncrna)
 
-## Jejunum small non-coding RNA type 2 diabetes
+## Jejunum small non-coding RNA
 
 - [jejunum_sncrna](https://github.com/leahkemp/jejunum_sncrna)
 
@@ -54,7 +58,7 @@
 
 ## Hyperparathyroidism exomes
 
-- [hyperparathyroid_analysis_20220328](https://github.com/ESR-NZ/hyperparathyroid_analysis_20220328)
+- [hyperparathyroid_analysis_20221102](https://github.com/leahkemp/hyperparathyroid_analysis_20221102)
 
 ## Colorectal cancer small non-coding RNA
 

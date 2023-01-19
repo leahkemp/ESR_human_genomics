@@ -38,3 +38,4 @@ A collection of bioinformatic tools and software we either developed internally 
 ## For [Nanopore](https://nanoporetech.com/) data
 
 - [Pore-C-Snakemake](https://github.com/nanoporetech/Pore-C-Snakemake)
+- [ont_human_workflow](https://github.com/leahkemp/ont_human_workflow)
