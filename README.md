@@ -10,11 +10,23 @@ This is a place to point to all the projects and analyses undertaken by the huma
 
 ## General info
 
-Minimal, cleaned up analyses can be found at either `/NGS/clinicalgenomics/archive/year/results/` or `/NGS/humangenomics/archive/year/results/` on ESR's production network. These include part of each analysis github repository (such as the `README.md` file) as well as minimal analysis results/outputs.
+Minimal, cleaned up analyses can be found at either...
 
-Most raw data will be found at `/NGS/clinicalgenomics/archive/year/run/raw/` or `/NGS/humangenomics/archive/year/run/raw/` on ESR's production network (with some data on `/mnt/cavia_porcellus/` on Leviathan on the research network). Here, more information about each project, metadata, sequencing information, information on getting the data to that location can be found.
+- `/NGS/clinicalgenomics/archive/year/results/`
+- `/NGS/humangenomics/archive/year/results/`
 
-*note. replace year with the year, such as 2022*
+...on ESR's production network. These include part of each analysis github repository (such as the `README.md` file) as well as minimal analysis results/outputs.
+
+Most raw data will be found at...
+
+- `/NGS/clinicalgenomics/archive/year/run/raw/`
+- `/NGS/humangenomics/archive/year/run/raw/`
+
+...on ESR's production network (with some data on `/mnt/cavia_porcellus/` on Leviathan on the research network). Here, more information about each project, metadata, sequencing information, information on getting the data to that location can be found. (*note. replace year with the year, such as 2022*).
+
+Internal ESR wiki has lots of useful info: https://kscprod-bioman1.esr.cri.nz/wiki/index.php/Main_Page
+
+List of linux servers including IP adresses: https://kscprod-bioman1.esr.cri.nz/wiki/index.php/Linux_Servers
 
 ## Projects and analyses
 
