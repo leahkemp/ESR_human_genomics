@@ -24,9 +24,9 @@ Most raw data will be found at...
 
 ...on ESR's production network (with some data on `/mnt/cavia_porcellus/` on Leviathan on the research network). Here, more information about each project, metadata, sequencing information, information on getting the data to that location can be found. (*note. replace year with the year, such as 2022*).
 
-Internal ESR wiki has lots of useful info: https://kscprod-bioman1.esr.cri.nz/wiki/index.php/Main_Page
+Internal ESR wiki has lots of useful info (only accessible on the ESR network): https://kscprod-bioman1.esr.cri.nz/wiki/index.php/Main_Page
 
-List of linux servers including IP adresses: https://kscprod-bioman1.esr.cri.nz/wiki/index.php/Linux_Servers
+List of linux servers including IP adresses (only accessible on the ESR network): https://kscprod-bioman1.esr.cri.nz/wiki/index.php/Linux_Servers
 
 ## Projects and analyses
 
